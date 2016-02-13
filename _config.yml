@@ -1,26 +1,28 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.6729323
-color:
-  saturation: 0.4709989
-  brandStrength: 0.7010403
-  lightness: 0.7781955
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  rhythmicContrast: 0.4215897
-layout_spectrum: 0.2572502
 name: Presenting to Win
+favicon: null
+layout_spectrum: 0.1811067
+typography_spectrum: 0.8188063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0b1320'
+    - '#e3ddc7'
+    - '#c81431'
+    - '#524e32'
+    - '#3da0c2'
+  brandStrength: 0.7010403
+  lightness: 0.625
+  saturation: 0.7544689
+  rhythmicContrast: 0.7727639
+purpose: []
